@@ -13,6 +13,7 @@ const Sidenav = () => {
       <ul>
         <li><Link className={active => assignClasses(active)} href='/upload'>Upload</Link></li>
         <li><Link className={active => assignClasses(active)} href='/chat'>Chat</Link></li>
+        <li><Link className={active => assignClasses(active)} href='/evals'>Evals</Link></li>
       </ul>
     </div>
   )
