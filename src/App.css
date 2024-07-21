@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
